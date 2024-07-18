@@ -24,4 +24,7 @@ The following projects provide evidence of the skills I possess as a business an
 
 ##### Non-Technical skills: People Management, Analytical Thinking and Problem-Solving, Communication, Stakeholder Management, Requirements Elicitation and Management, Process Modeling and Improvement, Data Analysis, Project Management, Documentation and Specification Writing.
 
+# Projects
+
+# 
 
