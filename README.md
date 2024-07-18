@@ -20,8 +20,8 @@ The following projects provide evidence of the skills I possess as a business an
 - Personally responsible for supporting the application estate for 1 business, and 20+ applications across another, involving Incident & Request Management and Change & Release Management.
 - Managed 30+ daily bordereaux files from multiple high profile clients.
 
-#### Technical skills: SQL, PowerBI, Powerapps, Powerautomate, Powershell, Advance Excel (VBA, Macros, Formulas)
+##### Technical skills: SQL, PowerBI, Powerapps, Powerautomate, Powershell, Advance Excel (VBA, Macros, Formulas)
 
-#### Non-Technical skills: People Management, Analytical Thinking and Problem-Solving, Communication, Stakeholder Management, Requirements Elicitation and Management, Process Modeling and Improvement, Data Analysis, Project Management, Documentation and Specification Writing.
+##### Non-Technical skills: People Management, Analytical Thinking and Problem-Solving, Communication, Stakeholder Management, Requirements Elicitation and Management, Process Modeling and Improvement, Data Analysis, Project Management, Documentation and Specification Writing.
 
 
